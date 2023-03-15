@@ -45,50 +45,50 @@ const app = {
 
     songs: [
         {
-            name: "Click Pow Get Down",
-            singer: "Raftaar x Fortnite",
+            name: "016TANDU",
+            singer: "CZS SOLSILVA x CZS LIL N",
             path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui1022/016TANDU-SolSilvaLilNVietNam-7098420.mp3?st=MvGmiLNsmAdvIF3MMBtA1g&e=1679407621&download=true",
             image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
         },
         {
-            name: "Tu Phir Se Aana",
-            singer: "Raftaar x Salim Merchant x Karma",
-            path: "https://c1-ex-swe.nixcdn.com/Singer_Audio1/MuaTaDaYeu-TruongSonLuuAnhLoanHongPhuocHuongGiangIdol-2483509.mp3?st=_t9WUjaTM6mt9Y0AanbM7w&e=1679408446&download=true",
+            name: "Yêu Em Kiểu",
+            singer: "Osad",
+            path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui2030/YeuEmKieu-Osad-8111621.mp3?st=RzYEuRReN1Vr6uY42tuM3Q&e=1679486654&download=true",
             image:
                 "https://1.bp.blogspot.com/-kX21dGUuTdM/X85ij1SBeEI/AAAAAAAAKK4/feboCtDKkls19cZw3glZWRdJ6J8alCm-gCNcBGAsYHQ/s16000/Tu%2BAana%2BPhir%2BSe%2BRap%2BSong%2BLyrics%2BBy%2BRaftaar.jpg"
         },
         {
-            name: "Naachne Ka Shaunq",
-            singer: "Raftaar x Brobha V",
+            name: "KHÔNG AI 102",
+            singer: "KRIS VŨ Ft TBASS",
             path:
                 "https://c1-ex-swe.nixcdn.com/NhacCuaTui2034/KhongAi102-KrisVuTBass-8564484.mp3?st=igFIdgF3Trx3pNbR1e887g&e=1679408508&download=true",
             image: "https://i.ytimg.com/vi/QvswgfLDuPg/maxresdefault.jpg"
         },
         {
-            name: "Mantoiyat",
-            singer: "Raftaar x Nawazuddin Siddiqui",
+            name: "Tín Hiệu Từ Trái Tim",
+            singer: "Cassano",
             path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui2026/TinHieuTuTraiTim-Cassano-7664843.mp3?st=LAAYwk_wYngye7eFv5fSCw&e=1679408308&download=true",
             image:
                 "https://a10.gaanacdn.com/images/song/39/24225939/crop_480x480_1536749130.jpg"
         },
         {
-            name: "Aage Chal",
-            singer: "Raftaar",
+            name: "CÔ GÁI NÀY LÀ CỦA AI",
+            singer: "Krix X Rush ft. Nhi Nhi",
             path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui1010/CoGaiNayLaCuaAi-KrixRushDoanQuocVinhNhiNhi-6926198.mp3?st=RqqO6Rwn0PLHZRwfzU36Hw&e=1679408415&download=true",
             image:
                 "https://a10.gaanacdn.com/images/albums/72/3019572/crop_480x480_3019572.jpg"
         },
         {
-            name: "Damn",
-            singer: "Raftaar x kr$na",
+            name: "Lời Có Cánh",
+            singer: "Osad",
             path:
-                "https://c1-ex-swe.nixcdn.com/NhacCuaTui889/VoHinhTrongTimEm-Mr.Siro-3828370.mp3?st=UZ2XHZrr7YO4lvh9ogE5Rw&e=1679408550&download=true",
+                "https://c1-ex-swe.nixcdn.com/NhacCuaTui2029/LoiCoCanh-Osad-8082482.mp3?st=I4BiLgjqEkodMxc0fwDe5w&e=1679486827&download=true",
             image:
                 "https://filmisongs.xyz/wp-content/uploads/2020/07/Damn-Song-Raftaar-KrNa.jpg"
         },
         {
-            name: "Feeling You",
-            singer: "Raftaar x Harjas",
+            name: "Anh Là Của Em",
+            singer: "Karik",
             path: "https://c1-ex-swe.nixcdn.com/NhacCuaTui922/AnhLaCuaEm-Karik-3786537.mp3?st=kLjth9oui-RU5KT4ISQJeQ&e=1679408708&download=true",
             image:
                 "https://a10.gaanacdn.com/gn_img/albums/YoEWlabzXB/oEWlj5gYKz/size_xxl_1586752323.webp"
